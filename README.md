@@ -12,10 +12,7 @@
   </a>
 </p>
 
-
-
-Sou **engenheiro** com experiência em gestão empresarial, processos administrativos e gestão pública.  
-Atualmente, estou iniciando minha trajetória na área de **Tecnologia da Informação**, cursando **DSM - Desenvolvimento de Software Multiplataforma (FATEC)**.
+Desenvolvedor em formação, com trajetória profissional em Engenharia de Produção, atuando na indústria e no setor público. Experiência em gestão de processos, controle de qualidade e administração pública. Atualmente curso **DSM · Desenvolvimento de Software Multiplataforma · FATEC/SJC**, atuando em projetos práticos com HTML, CSS, TypeScript, Python, React, Flask, MySQL e Metodologia Ágil Scrum. Combinando visão analítica de processos e regras de negócio com a construção de soluções tecnológicas eficientes.
 
 Minha missão é integrar minha vivência profissional à tecnologia, criando **soluções bem estruturadas, funcionais e visualmente agradáveis**, unindo **estética e desempenho**.
 
