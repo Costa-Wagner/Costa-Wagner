@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Wagner Costa!
 
 <p align="left">
-  <a href="https://portfolio-wagner-nu.vercel.app/">
+  <a href="https://wagner-costa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-1E90FF?style=flat&logo=google-chrome&logoColor=white" style="padding: 10px 20px; border-radius: 20px;" />
   </a>
   <a href="https://www.linkedin.com/in/wagner-costa-391b0726/">
