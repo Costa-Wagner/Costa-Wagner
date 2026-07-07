@@ -4,7 +4,7 @@
   <a href="https://wagner-costa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-1E90FF?style=flat&logo=google-chrome&logoColor=white" style="padding: 10px 20px; border-radius: 20px;" />
   </a>
-  <a href="https://www.linkedin.com/in/wagner-costa-391b0726/">
+  <a href="https://www.linkedin.com/in/costa-wagner">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" style="padding: 10px 20px; border-radius: 20px;" />
   </a>
   <a href="https://github.com/Costa-Wagner">
